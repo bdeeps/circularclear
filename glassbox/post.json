@@ -1,0 +1,126 @@
+{
+  "slug": "circularclear",
+  "box": 25,
+  "question": "What keeps things moving in circles?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/circularclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/circularclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From a sling and a pendulum clock to cream separators, the wall of death and a spinning tether in orbit.\n\n1659: Huygens finds the rule\n1673: Centrifugal force goes public\n1684: Newton names centripetal force\n1835: The Coriolis effect\n1878: De Laval's continuous cream separator\n1893: The first Ferris wheel\n\nThe full story, with 20 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/circularclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/circularclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #circularmotion #centripetalforce #centripetalacceleration #angularspeed #rpm #gforce #history",
+      "youtube": {
+        "title": "The history of circular motion in 45 seconds #shorts",
+        "description": "From a sling and a pendulum clock to cream separators, the wall of death and a spinning tether in orbit.\n\n1659 · Huygens finds the rule (Christiaan Huygens)\n1673 · Centrifugal force goes public (Christiaan Huygens)\n1684 · Newton names centripetal force (Isaac Newton)\n1835 · The Coriolis effect (Gaspard-Gustave de Coriolis)\n1878 · De Laval's continuous cream separator (Gustaf de Laval)\n1893 · The first Ferris wheel (George Washington Gale Ferris Jr.)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/circularclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/circularclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "What keeps things moving in circles?\n\nWhirl a ball on a string, then cut it: the ball flies off straight, not outwards. Spin-dry clothes at 400 g, feel 10,000 g at a mixer's blade tip, take a bend on a wet road, loop the loop, ride India's wall of death, and bust the myths of centrifugal force and the backwards-draining sink.\n\n→ Going round needs a pull to the centre: F = m v² ÷ r. Double the speed, four times the pull.\n→ Cut the string and the ball flies straight on along the tangent, not outwards.\n→ A washer drum at 1,200 rpm pushes clothes in 400 times harder than gravity. The water flies straight out.\n→ A blood centrifuge at 1,000 g packs red cells down and leaves yellow plasma on top in minutes.\n→ On a flat bend only tyre grip turns the car. Too fast for √(μ g r) and it slides off the outside.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/circularclear (link in bio)\n\nBox No. L25 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #circularmotion #centripetalforce #centripetalacceleration #angularspeed #rpm #gforce #centrifuge #spindry #cornering",
+    "carousel": "Swipe through: What keeps things moving in circles?\n\nWhirl a ball on a string, then cut it: the ball flies off straight, not outwards. Spin-dry clothes at 400 g, feel 10,000 g at a mixer's blade tip, take a bend on a wet road, loop the loop, ride India's wall of death, and bust the myths of centrifugal force and the backwards-draining sink.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/circularclear (link in bio).\n\nBox No. L25 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #circularmotion #centripetalforce #centripetalacceleration #angularspeed #rpm #gforce",
+    "youtube": {
+      "title": "What keeps things moving in circles? #shorts",
+      "description": "Whirl a ball on a string, then cut it: the ball flies off straight, not outwards. Spin-dry clothes at 400 g, feel 10,000 g at a mixer's blade tip, take a bend on a wet road, loop the loop, ride India's wall of death, and bust the myths of centrifugal force and the backwards-draining sink.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/circularclear/\n⌘ Source code (MIT): https://github.com/bdeeps/circularclear\n\nBox No. L25 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "What keeps things moving in circles? (interactive explainer)",
+      "description": "Whirl a ball on a string, then cut it: the ball flies off straight, not outwards. Spin-dry clothes at 400 g, feel 10,000 g at a mixer's blade tip, take a bend on a wet road, loop the loop, ride India's wall of death, and bust the myths of centrifugal force and the backwards-draining sink.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/circularclear/\n⌘ Source code (MIT): https://github.com/bdeeps/circularclear\n\nIn this video:\n• Turning needs a pull. Going round a circle means your direction changes all the time, so you are accelerating towards the centre: a = v² ÷ r.\n• Spinning machines. Every point on a spinning part moves at v = ω r and needs ω² r.\n• On the road. On a flat bend only tyre friction turns you, so the top speed is √(μ g r) whatever the mass: 71 km/h on a dry 50 m bend.\n• Rides and space. A loop needs v ≥ √(g r) at the top, so the cart must enter at √(5 g r).\n• Myths and limits. Nothing flings you outwards: centrifugal force is inertia seen from a turning frame.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "What keeps things moving in circles?\n\nWhirl a ball on a string, then cut it: the ball flies off straight, not outwards.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/circularclear/",
+    "linkedin": "What keeps things moving in circles?\n\nWhirl a ball on a string, then cut it: the ball flies off straight, not outwards. Spin-dry clothes at 400 g, feel 10,000 g at a mixer's blade tip, take a bend on a wet road, loop the loop, ride India's wall of death, and bust the myths of centrifugal force and the backwards-draining sink.\n\n1. Turning needs a pull\n2. Spinning machines\n3. On the road\n4. Rides and space\n5. Myths and limits\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. L25 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/circularclear/\nCode: https://github.com/bdeeps/circularclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T23:10:45.509Z"
+}

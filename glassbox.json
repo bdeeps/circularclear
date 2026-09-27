@@ -1,0 +1,168 @@
+{
+  "slug": "circularclear",
+  "kind": "principle",
+  "box": 25,
+  "date": "2026-09-27",
+  "title": "Circular motion",
+  "question": "What keeps things moving in circles?",
+  "principle": {
+    "type": "concept",
+    "name": "Circular motion",
+    "formula": "F = m v² ÷ r",
+    "formulaNote": "centripetal force = mass × speed² ÷ radius. Double the speed and you need four times the pull; halve the radius and you need twice the pull. The acceleration towards the centre is a = v² ÷ r = ω² r, and every point on a spinning thing moves at v = ω r.",
+    "idea": "Anything going round in a circle is changing direction all the time, so something must keep pulling or pushing it towards the centre: a string, friction, a wall or gravity. The faster it goes and the tighter the circle, the harder that pull must be. Let go, and it flies off in a straight line.",
+    "discovered": "1673 · Christiaan Huygens, Horologium Oscillatorium (centrifugal force); 1687 · Newton",
+    "art": "drum",
+    "appliesTo": [
+      "washerclear",
+      "mixerclear",
+      "fanclear",
+      "motorcycleclear",
+      "cycleclear",
+      "carclear"
+    ],
+    "examples": [
+      {
+        "title": "Spin-drying clothes",
+        "text": "A 50 cm washer drum at 1,200 rpm pushes the clothes inwards about 400 times harder than gravity. The water in them has nothing holding it, so it flies straight out through the holes.",
+        "box": "washerclear"
+      },
+      {
+        "title": "Mixer blade tips",
+        "text": "At 18,000 rpm the blade tips of a mixer grinder, just 3 cm from the shaft, move at about 200 km/h and feel over 10,000 g.",
+        "box": "mixerclear"
+      },
+      {
+        "title": "Ceiling fan blades",
+        "text": "A 1,200 mm fan turns at only 350 rpm, but its tips are 60 cm out, so they move at about 80 km/h and each blade root must hold a pull of roughly 170 N.",
+        "box": "fanclear"
+      },
+      {
+        "title": "Leaning a motorbike",
+        "text": "Riders lean so the road's push points through their centre of mass: tan θ = v² ÷ (g r). At 70 km/h round a 50 m bend that is about 38°, close to the limit of a dry road.",
+        "box": "motorcycleclear"
+      },
+      {
+        "title": "Cycling round a roundabout",
+        "text": "At 20 km/h round a 15 m roundabout a cyclist leans about 12°, and the tyres must grip sideways with a fifth of the rider's weight.",
+        "box": "cycleclear"
+      },
+      {
+        "title": "Cornering a car",
+        "text": "On a flat bend only tyre friction turns the car, so the top speed is √(μ g r): about 71 km/h on a dry 50 m bend, and only 25 km/h on ice, whatever the car weighs.",
+        "box": "carclear"
+      },
+      {
+        "title": "Blood in a centrifuge",
+        "text": "At 3,000 rpm a lab centrifuge gives about 1,000 g. In ten minutes the red cells pack at the bottom of the tube and yellow plasma floats on top."
+      },
+      {
+        "title": "Maut ka kuan",
+        "text": "In the wall of death at Indian melas, riders circle a wooden well about 9 m across. The wall pushes them inwards, and friction from that push holds them up, as long as they stay above about 30 km/h."
+      },
+      {
+        "title": "Artificial gravity",
+        "text": "A space station 224 m in radius spinning at 2 rpm would press its crew to the floor with 1 g. The ISS doesn't spin: its crew float because gravity is exactly the pull their orbit needs."
+      }
+    ]
+  },
+  "hook": "Whirl a ball on a string, then cut it: the ball flies off straight, not outwards. Spin-dry clothes at 400 g, feel 10,000 g at a mixer's blade tip, take a bend on a wet road, loop the loop, ride India's wall of death, and bust the myths of centrifugal force and the backwards-draining sink.",
+  "thumbText": "CIRCULAR MOTION",
+  "field": "physics",
+  "minutes": 12,
+  "tags": [
+    "circular motion",
+    "centripetal force",
+    "centripetal acceleration",
+    "angular speed",
+    "rpm",
+    "g-force",
+    "centrifuge",
+    "spin-dry",
+    "cornering",
+    "banked roads",
+    "lean angle",
+    "loop-the-loop",
+    "wall of death",
+    "artificial gravity",
+    "centrifugal force",
+    "Coriolis effect",
+    "physics",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Turning needs a pull",
+      "text": "Going round a circle means your direction changes all the time, so you are accelerating towards the centre: a = v² ÷ r. Something must supply F = m v² ÷ r. Double the speed and you need four times the pull. Cut the string and the ball carries straight on along the tangent."
+    },
+    {
+      "title": "Spinning machines",
+      "text": "Every point on a spinning part moves at v = ω r and needs ω² r. A washer drum at 1,200 rpm reaches 400 g, so water leaves through the holes; a mixer's blade tips pass 10,000 g; a blood centrifuge at 1,000 g separates plasma from red cells in minutes."
+    },
+    {
+      "title": "On the road",
+      "text": "On a flat bend only tyre friction turns you, so the top speed is √(μ g r) whatever the mass: 71 km/h on a dry 50 m bend. Banked tracks let the road's push help, with no friction needed at √(g r tan θ). Bikes lean until tan θ = v² ÷ (g r)."
+    },
+    {
+      "title": "Rides and space",
+      "text": "A loop needs v ≥ √(g r) at the top, so the cart must enter at √(5 g r). Giant wheels make you lighter at the top. On the wall of death the wall's push lets friction hold riders up. A ring 224 m in radius spinning at 2 rpm would make 1 g."
+    },
+    {
+      "title": "Myths and limits",
+      "text": "Nothing flings you outwards: centrifugal force is inertia seen from a turning frame. The Coriolis effect steers cyclones but is a millionth of g in a sink, so it doesn't choose the drain's direction. Near light speed the formula needs Einstein's correction."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Centripetal force",
+      "def": "The inward pull or push that keeps something moving in a circle: F = m v² ÷ r."
+    },
+    {
+      "term": "Centripetal acceleration",
+      "def": "The acceleration towards the centre of a circle, a = v² ÷ r = ω² r, in m/s²."
+    },
+    {
+      "term": "Angular speed (ω)",
+      "def": "How fast something turns, in radians per second; 60 rpm is 6.28 rad/s. Points further out move faster: v = ω r."
+    },
+    {
+      "term": "g-force",
+      "def": "An acceleration measured in multiples of gravity, a ÷ 9.81. A washer drum at 1,200 rpm reaches about 400 g."
+    },
+    {
+      "term": "Banking",
+      "def": "Tilting a road or track inwards so the road's own push helps turn you."
+    },
+    {
+      "term": "Apparent weight",
+      "def": "The push you feel from a seat or floor. It changes in a curve: lighter at the top of a giant wheel, heavier at the bottom."
+    },
+    {
+      "term": "Centrifugal force",
+      "def": "The outward force you seem to feel in a turning frame. It is inertia, not a push from anything."
+    },
+    {
+      "term": "Coriolis effect",
+      "def": "In a turning frame, moving things seem to curve sideways. On Earth it steers winds and cyclones."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "circularclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "title": "The history of circular motion",
+  "tagline": "From a sling and a pendulum clock to cream separators, the wall of death and a spinning tether in orbit.",
+  "intro": "People always knew that a whirled stone pulls on the hand. Huygens found the rule in 1659, and Newton turned it round in 1684: circles need an inward, centre-seeking force. Coriolis explained what turning frames add, and engineers put spinning to work in dairies, labs, fairs and space.",
+  "eras": [
+    {
+      "id": "rules",
+      "name": "Finding the rule",
+      "from": 1644,
+      "to": 1690,
+      "color": "#c49bff",
+      "summary": "Descartes, Huygens, Hooke and Newton work out that circles need an inward pull, and how big it is."
+    },
+    {
+      "id": "measure",
+      "name": "Turning frames",
+      "from": 1740,
+      "to": 1860,
+      "color": "#8ef0ff",
+      "summary": "Whirling arms, Coriolis's sideways force and Foucault's pendulum show what it means to measure from something that turns."
+    },
+    {
+      "id": "machines",
+      "name": "Spinning to work",
+      "from": 1864,
+      "to": 1930,
+      "color": "#ffb547",
+      "summary": "Cream separators, giant wheels, loops, the wall of death and the ultracentrifuge put m v² ÷ r to work."
+    },
+    {
+      "id": "space",
+      "name": "Rides, drains and space",
+      "from": 1950,
+      "to": 1980,
+      "color": "#5ce1a9",
+      "summary": "Dreams of spinning stations, India's dairy revolution, the bathtub vortex, a tether in orbit and gentler loops."
+    }
+  ],
+  "events": [
+    {
+      "year": 1644,
+      "date": "1644",
+      "era": "rules",
+      "art": "quill",
+      "key": false,
+      "title": "A sling wants to go straight",
+      "who": "René Descartes",
+      "where": "Amsterdam, Netherlands (published)",
+      "country": "Netherlands",
+      "text": "In his Principles of Philosophy, Descartes wrote that every moving thing tends to carry on in a straight line. A stone whirled in a sling keeps trying to fly off along the tangent, and only the sling stops it.",
+      "why": "It swapped the old idea that circles were natural for the modern one: straight is natural, turning needs a cause.",
+      "box": "limits",
+      "sources": [
+        4,
+        0
+      ]
+    },
+    {
+      "year": 1659,
+      "date": "1659",
+      "era": "rules",
+      "art": "pendulum",
+      "key": true,
+      "title": "Huygens finds the rule",
+      "who": "Christiaan Huygens",
+      "where": "The Hague, Netherlands",
+      "country": "Netherlands",
+      "text": "Working on pendulum clocks, Huygens worked out that the outward tug on a whirled weight grows with the square of its speed and falls with the radius: in today's terms m v² ÷ r. He wrote it up as De vi centrifuga, which was only printed after his death, in 1703.",
+      "why": "It was the first correct formula for circular motion.",
+      "box": "idea",
+      "sources": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "year": 1673,
+      "date": "1673",
+      "era": "rules",
+      "art": "scroll",
+      "key": true,
+      "title": "Centrifugal force goes public",
+      "who": "Christiaan Huygens",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "At the end of Horologium Oscillatorium, his great book on pendulum clocks, Huygens printed thirteen theorems on 'centrifugal force' without their proofs. It is where the name first appeared in print.",
+      "why": "Scientists across Europe, including Newton, could now calculate the force needed for any circle.",
+      "box": "idea",
+      "sources": [
+        3,
+        0,
+        2
+      ]
+    },
+    {
+      "year": 1679,
+      "date": "1679",
+      "era": "rules",
+      "art": "inkpot",
+      "key": false,
+      "title": "An orbit is a bent straight line",
+      "who": "Robert Hooke",
+      "where": "London, England",
+      "country": "England",
+      "text": "In letters to Isaac Newton, Hooke suggested that a planet's orbit is a straight-line motion constantly bent by an attraction towards the Sun. The inward pull, not an outward one, was the thing to explain.",
+      "why": "It pointed Newton towards thinking of an inward, centre-seeking force.",
+      "box": "rides",
+      "sources": [
+        5,
+        1
+      ]
+    },
+    {
+      "year": 1684,
+      "date": "1684",
+      "era": "rules",
+      "art": "orbit",
+      "key": true,
+      "title": "Newton names centripetal force",
+      "who": "Isaac Newton",
+      "where": "Cambridge, England",
+      "country": "England",
+      "text": "In a short manuscript sent to Edmond Halley, De motu corporum in gyrum, Newton introduced vis centripeta, 'centre-seeking force', a name that mirrors Huygens's centrifugal force. He showed that an inverse-square centripetal pull gives Kepler's orbits.",
+      "why": "It turned the question round: circles need an inward pull, and gravity can be it.",
+      "box": "idea",
+      "sources": [
+        6,
+        1
+      ]
+    },
+    {
+      "year": 1687,
+      "date": "1687",
+      "era": "rules",
+      "art": "waterdrop",
+      "key": false,
+      "title": "Principia and the spinning bucket",
+      "who": "Isaac Newton",
+      "where": "London, England",
+      "country": "England",
+      "text": "Principia defined centripetal force (Definition 5) and used it for the Moon, planets and tides. In one passage Newton described a bucket of water set spinning: as the water starts to turn with it, its surface climbs the sides into a curve, a sign of real rotation.",
+      "why": "It made m v² ÷ r part of one system of mechanics, and started a long argument about what 'really rotating' means.",
+      "box": "limits",
+      "sources": [
+        29,
+        7
+      ]
+    },
+    {
+      "year": 1742,
+      "date": "1740s",
+      "era": "measure",
+      "art": "wind",
+      "key": false,
+      "title": "The whirling arm",
+      "who": "Benjamin Robins",
+      "where": "London, England",
+      "country": "England",
+      "text": "Robins, a military engineer, built a whirling arm to swing test shapes round in a circle and measure the air's drag on them. It is often counted as the first centrifuge-like machine; engineers later used whirling arms to test wings and propellers.",
+      "why": "Spinning things fast in a circle became a way to do experiments.",
+      "box": "machines",
+      "sources": [
+        8,
+        9
+      ]
+    },
+    {
+      "year": 1835,
+      "date": "1835",
+      "era": "measure",
+      "art": "compass",
+      "key": true,
+      "title": "The Coriolis effect",
+      "who": "Gaspard-Gustave de Coriolis",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Studying machines with turning parts, Coriolis showed that anyone describing motion from a rotating frame must add two extra terms: the centrifugal one, and a sideways one that grows with speed. The sideways one now carries his name.",
+      "why": "It explains why winds and cyclones curve on the turning Earth.",
+      "box": "limits",
+      "sources": [
+        10,
+        11
+      ]
+    },
+    {
+      "year": 1851,
+      "date": "1851",
+      "era": "measure",
+      "art": "earth",
+      "key": false,
+      "title": "Foucault's pendulum shows the Earth turning",
+      "who": "Léon Foucault",
+      "where": "Panthéon, Paris, France",
+      "country": "France",
+      "text": "Foucault hung a heavy bob on a 67 m wire in the Panthéon. As it swung, its line slowly turned round through the day, because the floor, the Earth, was turning underneath it.",
+      "why": "It showed the Earth is a rotating frame, where Coriolis effects are real but slow.",
+      "box": "limits",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1864,
+      "date": "1864",
+      "era": "machines",
+      "art": "drum",
+      "key": false,
+      "title": "A centrifuge for milk",
+      "who": "Antonin Prandtl",
+      "where": "Bavaria, Germany",
+      "country": "Germany",
+      "text": "Antonin Prandtl proposed spinning milk so the denser skim milk flies outwards and the lighter cream gathers in the middle. His brother Alexander showed a working machine in 1875.",
+      "why": "It was the start of the centrifuge as an everyday machine.",
+      "box": "machines",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 1878,
+      "date": "1878",
+      "era": "machines",
+      "art": "gear",
+      "key": true,
+      "title": "De Laval's continuous cream separator",
+      "who": "Gustaf de Laval",
+      "where": "Stockholm, Sweden",
+      "country": "Sweden",
+      "text": "De Laval patented a separator that took in milk and let cream and skim milk flow out non-stop while it spun. With Oscar Lamm he founded AB Separator in 1883, now Alfa Laval. Dairies everywhere still separate cream this way.",
+      "why": "Continuous spinning made centrifuges practical for industry.",
+      "box": "machines",
+      "sources": [
+        13,
+        14
+      ]
+    },
+    {
+      "year": 1893,
+      "date": "21 June 1893",
+      "era": "machines",
+      "art": "spokes",
+      "key": true,
+      "title": "The first Ferris wheel",
+      "who": "George Washington Gale Ferris Jr.",
+      "where": "Chicago, USA",
+      "country": "USA",
+      "text": "Built for the World's Columbian Exposition, Ferris's wheel stood 80 m high with 36 cars that each held up to 60 people. It turned slowly, about 9 minutes for a non-stop turn, so riders barely felt the circle.",
+      "why": "It started the giant wheels found at every mela and fair.",
+      "box": "rides",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1895,
+      "date": "1895 and 1901",
+      "era": "machines",
+      "art": "ball",
+      "key": false,
+      "title": "The first loop-the-loops",
+      "who": "Lina Beecher; Edwin Prescott",
+      "where": "Coney Island, New York, USA",
+      "country": "USA",
+      "text": "The Flip Flap Railway at Sea Lion Park had a perfectly circular loop, and riders complained of neck injuries from the high g-force. In 1901 Prescott's Loop the Loop used a taller, teardrop-shaped loop to ease it.",
+      "why": "Engineers learned that a round loop is the worst shape for riders.",
+      "box": "rides",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1911,
+      "date": "1911 onwards",
+      "era": "machines",
+      "art": "motorcycle",
+      "key": false,
+      "title": "Motordromes and the wall of death",
+      "who": "Carnival riders",
+      "where": "Coney Island, New York, USA",
+      "country": "USA",
+      "text": "The first carnival motordrome, a steep wooden bowl, appeared at Coney Island in 1911; vertical-walled versions followed by about 1915. The show spread round the world, and in India it became the maut ka kuan of village melas.",
+      "why": "It is circular motion as a show: the wall's push lets friction hold the rider up.",
+      "box": "rides",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1924,
+      "date": "1924; Nobel Prize 1926",
+      "era": "machines",
+      "art": "molecule",
+      "key": true,
+      "title": "The ultracentrifuge",
+      "who": "Theodor Svedberg",
+      "where": "Uppsala, Sweden",
+      "country": "Sweden",
+      "text": "Svedberg built centrifuges that spun samples so hard, many thousands of g, that big molecules settled out and could be watched and weighed. He showed that proteins such as haemoglobin have definite sizes, and won the 1926 Nobel Prize in Chemistry.",
+      "why": "Spinning became one of biology's main tools for sorting molecules and cells.",
+      "box": "machines",
+      "sources": [
+        18,
+        19
+      ]
+    },
+    {
+      "year": 1952,
+      "date": "1952",
+      "era": "space",
+      "art": "rocket",
+      "key": false,
+      "title": "A wheel-shaped space station",
+      "who": "Wernher von Braun",
+      "where": "USA",
+      "country": "USA",
+      "text": "In Collier's magazine von Braun described a wheel about 75 m across, spinning slowly so its crew would have about a third of normal gravity. Artists painted it, and it shaped how films showed space stations for decades.",
+      "why": "It made artificial gravity by spinning a familiar idea.",
+      "box": "rides",
+      "sources": [
+        20,
+        27
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "31 October 1955",
+      "era": "space",
+      "art": "flask",
+      "key": false,
+      "title": "Amul's dairy opens in Anand",
+      "who": "Kaira District Co-operative Milk Producers' Union (Amul)",
+      "where": "Anand, Gujarat, India",
+      "country": "India",
+      "text": "Prime Minister Jawaharlal Nehru opened Amul's new dairy, which made butter and milk powder from buffalo milk, a world first. Like every butter dairy, it depends on centrifugal separators to take the cream off the milk.",
+      "why": "India's co-operative dairies grew into the world's largest milk industry, with centrifuges at their heart.",
+      "box": "machines",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1962,
+      "date": "1962",
+      "era": "space",
+      "art": "tap",
+      "key": false,
+      "title": "The bathtub vortex experiment",
+      "who": "Ascher Shapiro",
+      "where": "MIT, Cambridge, USA",
+      "country": "USA",
+      "text": "Shapiro filled a round tank about 2 m across, let it stand still for a day, then pulled the plug. Only then did the Earth's tiny Coriolis effect show, as a slow anticlockwise swirl. A team in Sydney repeated it in 1965 and saw a clockwise swirl.",
+      "why": "It proved the effect is real, and also that it is far too weak to steer an ordinary sink.",
+      "box": "limits",
+      "sources": [
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "year": 1966,
+      "date": "September 1966",
+      "era": "space",
+      "art": "orbit",
+      "key": true,
+      "title": "Artificial gravity in orbit",
+      "who": "Pete Conrad and Richard Gordon, Gemini 11",
+      "where": "Earth orbit",
+      "country": "USA",
+      "text": "The Gemini 11 crew tied their capsule to an Agena rocket with a 30 m tether and fired thrusters to set the pair slowly turning like a bola. It made about 0.00015 g, the first artificial gravity created in space.",
+      "why": "It showed spinning spacecraft could make gravity, though a useful amount needs a big, fast ring.",
+      "box": "rides",
+      "sources": [
+        26,
+        27
+      ]
+    },
+    {
+      "year": 1976,
+      "date": "1976",
+      "era": "space",
+      "art": "wave",
+      "key": false,
+      "title": "Teardrop loops return",
+      "who": "Werner Stengel; Revolution coaster",
+      "where": "Six Flags Magic Mountain, California, USA",
+      "country": "USA",
+      "text": "The Revolution was the first modern steel coaster with a vertical loop. Its designer Werner Stengel shaped it as a clothoid, tight at the top and wide at the bottom, so riders never feel the 6 g of a round loop.",
+      "why": "Almost every looping coaster since uses the same curve.",
+      "box": "rides",
+      "sources": [
+        28,
+        16
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Formula for circular motion worked out",
+      "value": "1659",
+      "who": "Christiaan Huygens, Netherlands"
+    },
+    {
+      "label": "'Centrifugal force' in print",
+      "value": "1673",
+      "who": "Christiaan Huygens, Horologium Oscillatorium"
+    },
+    {
+      "label": "'Centripetal force' named",
+      "value": "1684",
+      "who": "Isaac Newton, De motu corporum in gyrum"
+    },
+    {
+      "label": "Coriolis effect described",
+      "value": "1835",
+      "who": "Gaspard-Gustave de Coriolis, France"
+    },
+    {
+      "label": "Continuous cream separator",
+      "value": "1878",
+      "who": "Gustaf de Laval, Sweden"
+    },
+    {
+      "label": "Ferris wheel",
+      "value": "1893",
+      "who": "George W. G. Ferris Jr., Chicago"
+    },
+    {
+      "label": "Nobel Prize for the ultracentrifuge",
+      "value": "1926",
+      "who": "Theodor Svedberg, Sweden"
+    },
+    {
+      "label": "Artificial gravity made in space",
+      "value": "1966",
+      "who": "Gemini 11, NASA"
+    }
+  ],
+  "people": [
+    {
+      "name": "René Descartes",
+      "life": "1596 – 1650",
+      "role": "Philosopher and mathematician",
+      "from": "France",
+      "note": "Said moving things go straight unless stopped, using the sling as his example."
+    },
+    {
+      "name": "Christiaan Huygens",
+      "life": "1629 – 1695",
+      "role": "Physicist, astronomer and clockmaker",
+      "from": "Netherlands",
+      "note": "Found the rule for centrifugal force and named it."
+    },
+    {
+      "name": "Robert Hooke",
+      "life": "1635 – 1703",
+      "role": "Natural philosopher",
+      "from": "England",
+      "note": "Saw an orbit as a straight path bent by a pull to the centre."
+    },
+    {
+      "name": "Isaac Newton",
+      "life": "1643 – 1727",
+      "role": "Mathematician and physicist",
+      "from": "England",
+      "note": "Named centripetal force and built it into his laws of motion."
+    },
+    {
+      "name": "Gaspard-Gustave de Coriolis",
+      "life": "1792 – 1843",
+      "role": "Engineer and mathematician",
+      "from": "France",
+      "note": "Worked out the extra forces seen from a turning frame."
+    },
+    {
+      "name": "Gustaf de Laval",
+      "life": "1845 – 1913",
+      "role": "Engineer and inventor",
+      "from": "Sweden",
+      "note": "Invented the continuous cream separator and founded AB Separator."
+    },
+    {
+      "name": "George W. G. Ferris Jr.",
+      "life": "1859 – 1896",
+      "role": "Bridge engineer",
+      "from": "USA",
+      "note": "Built the first Ferris wheel for Chicago's 1893 fair."
+    },
+    {
+      "name": "Theodor Svedberg",
+      "life": "1884 – 1971",
+      "role": "Chemist",
+      "from": "Sweden",
+      "note": "Built the ultracentrifuge and weighed proteins with it."
+    },
+    {
+      "name": "Ascher Shapiro",
+      "life": "1916 – 2004",
+      "role": "Fluid engineer",
+      "from": "USA",
+      "note": "Caught the Earth's Coriolis effect in a carefully stilled tank."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "A washer drum at 1,200 rpm pushes on clothes about 400 times harder than gravity.",
+    "The tip of a mixer grinder blade at 18,000 rpm moves at about 200 km/h.",
+    "The 1893 Ferris wheel took about 9 minutes per turn, so riders felt less than a thousandth of g from the circle.",
+    "In a sink, the Earth's Coriolis effect is about a millionth of g: far too weak to choose which way it drains.",
+    "Gemini 11's spinning tether in 1966 made about 0.00015 g, the first artificial gravity in space."
+  ],
+  "sources": [
+    {
+      "title": "Centrifugal force",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Centrifugal_force"
+    },
+    {
+      "title": "Centripetal force",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Centripetal_force"
+    },
+    {
+      "title": "Christiaan Huygens",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Christiaan_Huygens"
+    },
+    {
+      "title": "Horologium Oscillatorium",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Horologium_Oscillatorium"
+    },
+    {
+      "title": "Principles of Philosophy (Descartes)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Principles_of_Philosophy"
+    },
+    {
+      "title": "Robert Hooke",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_Hooke"
+    },
+    {
+      "title": "De motu corporum in gyrum",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/De_motu_corporum_in_gyrum"
+    },
+    {
+      "title": "Bucket argument",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bucket_argument"
+    },
+    {
+      "title": "Benjamin Robins",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Benjamin_Robins"
+    },
+    {
+      "title": "Centrifuge",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Centrifuge"
+    },
+    {
+      "title": "Gaspard-Gustave de Coriolis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gaspard-Gustave_de_Coriolis"
+    },
+    {
+      "title": "Coriolis force",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Coriolis_force"
+    },
+    {
+      "title": "Foucault pendulum",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Foucault_pendulum"
+    },
+    {
+      "title": "Gustaf de Laval",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gustaf_de_Laval"
+    },
+    {
+      "title": "History of Alfa Laval",
+      "publisher": "Alfa Laval",
+      "url": "https://www.alfalaval.com/about-us/where-we-come-from/"
+    },
+    {
+      "title": "Ferris Wheel (1893)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ferris_Wheel_(1893)"
+    },
+    {
+      "title": "Vertical loop",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vertical_loop"
+    },
+    {
+      "title": "Wall of death",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wall_of_death"
+    },
+    {
+      "title": "Theodor Svedberg",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Theodor_Svedberg"
+    },
+    {
+      "title": "The Nobel Prize in Chemistry 1926",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1926/summary/"
+    },
+    {
+      "title": "Von Braun wheel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Von_Braun_wheel"
+    },
+    {
+      "title": "History",
+      "publisher": "Amul Dairy (Kaira District Co-operative Milk Producers' Union)",
+      "url": "https://www.amuldairy.com/history.php"
+    },
+    {
+      "title": "Amul",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amul"
+    },
+    {
+      "title": "Bath-Tub Vortex (A. H. Shapiro, Nature 196, 1962)",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/1961080b0"
+    },
+    {
+      "title": "Verifying a vortex",
+      "publisher": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2012/10/24/183079/verifying-a-vortex/"
+    },
+    {
+      "title": "The Bath-Tub Vortex in the Southern Hemisphere (Nature 207, 1965)",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/2071084a0"
+    },
+    {
+      "title": "Gemini 11",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gemini_11"
+    },
+    {
+      "title": "Artificial gravity",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Artificial_gravity"
+    },
+    {
+      "title": "Revolution (Six Flags Magic Mountain)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Revolution_(Six_Flags_Magic_Mountain)"
+    },
+    {
+      "title": "Philosophiæ Naturalis Principia Mathematica",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica"
+    }
+  ]
+}
